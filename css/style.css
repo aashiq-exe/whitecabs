@@ -470,7 +470,8 @@ a:focus {
 }
 
 .news_section .news_container .box .img-box {
-  width: 100%;
+  min-height: 243px;
+    min-width: 323px;
 }
 
 .news_section .news_container .box .img-box img {
@@ -491,6 +492,9 @@ a:focus {
   margin: 0;
 }
 
+.news_section p {
+  padding: 0.5rem;
+}
 .client_section .carousel-wrap {
   margin: 0 auto;
   padding: 0 5%;
