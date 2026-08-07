@@ -4,11 +4,11 @@ $black: #000000;
 $btnColor: #0b0b0a;
 
 @mixin main-font {
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 @mixin secondary-font {
-  font-family: "Poppins", sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 
 @mixin hero_btn($col1, $col2, $pad1, $pad2) {
